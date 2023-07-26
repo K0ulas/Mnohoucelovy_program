@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Kaulkulačka_Na_Objekty_v2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="big.js" Version="3.0.0" />
+    <PackageReference Include="dmath" Version="1.6.1.93" />
+  </ItemGroup>
+
+</Project>
